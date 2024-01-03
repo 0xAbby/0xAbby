@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah (@0xAbby)
 - 👀 I’m interested in security research, embedded systems, and C/C++ programming
-- 📫 How to reach me abby@[no-spam].net replace [no-spam] with 0xada
+- 📫 How to reach me abby@nospam.net (replace nospam with 0xada)
 
 
 
