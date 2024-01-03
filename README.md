@@ -5,5 +5,5 @@
 
 
 ## **Top Languages**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAbby&layout=compact&hide=CMake,html,Assembly,Batchfile,XS,css,JavaScript&theme=react&hide_border=false)](https://github.com/0xAbby/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAbby&layout=compact&hide=html,Batchfile,XS,css,JavaScript&theme=react&hide_border=false)](https://github.com/0xAbby/)
 
