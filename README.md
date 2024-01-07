@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **Abby@ [nospam].net replace with 0xADA.net**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
